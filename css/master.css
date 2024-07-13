@@ -263,7 +263,7 @@ input::placeholder{
 input:focus::placeholder{
     opacity: 0;
 }
-@media (max-width:400px){
+@media (max-width:600px){
     .content .head input:focus{
         width: 150px;
     }
@@ -424,7 +424,7 @@ border: 1px solid #0161cf;
     transition: .5s;
     
 }
-@media (max-width:400px){
+@media (max-width:600px){
     .content .container .box2 textarea{
         min-width: 75%;
     }
@@ -1063,7 +1063,7 @@ input.reason{
     margin-top: 15px;
     
 }
-@media (max-width:400px){
+@media (max-width:600px){
 .security .txte{
     display: flex;
     justify-content: center;
@@ -1114,7 +1114,7 @@ a.classic{
     padding: 10px 15px;
     border-radius: 6px;
 }
-@media(max-width:400px){
+@media(max-width:600px){
     .security a.link{
     margin-left: 0;
 } 
